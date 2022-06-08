@@ -3,14 +3,14 @@ kind: Template
 metadata:
   name: k3t-php8-laravel-web
   title: PHP 8 Laravel Web Application
-  description: 
+  description: Cria uma aplicação web usando PHP8 e Laravel framework
   tags:
     - app
     - web
     - php8
     - laravel
 spec:
-  owner: 
+  owner: tech@kode3.tech
   type: website
   parameters:
     - title: Provide some simple information
